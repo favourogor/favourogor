@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Favour Ogor
 - 👀 I’m interested in the tech world
 - 🌱 I’m currently learning frontend web development
-- 💞️ I’m looking to collaborate on new projects
+- 💞️ I’m looking to collaborate on beginner projects
 - 📫 How to reach me: Twitter @_favourme
 
 <!---
